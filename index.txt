@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Your Title Here</title>
+  </head>
+  <body>
+    <h1>Your Heading Here</h1>
+    <p>A short message can go here!</p>
+  </body>
+</html>
